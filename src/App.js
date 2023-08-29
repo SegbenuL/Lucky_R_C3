@@ -1,11 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
-    <><h1>Hello world</h1>
-    <p>I am SEGBENU LUCKY DAMILOLA, this is my first React application</p>
-    </>
+    <div>
+      <h1>Hello world</h1>
+      <p>SEGBENU LUCKY DAMILOLA</p>
+      <p>Bachelor of Science Computer Science</p>
+      <p>Frontend-Developer</p>
+      <p>CSS, HTML, JAVASCRIPT, REACT, FIGMA, ADOBE XD</p>
+    </div>
   );
 }
 
